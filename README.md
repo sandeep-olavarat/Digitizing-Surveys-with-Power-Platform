@@ -91,16 +91,8 @@ Digitize and centralize the survey process using Microsoft Power Platform to:
 - 📤 Export functionality to PDF/Excel for archival and reporting.
 - 📈 KPI metrics to evaluate student satisfaction scores.
 
----
 
-## 7. Screenshots and Visuals
 
-- Student Power Apps survey form.
-- Educator feedback interface.
-- SharePoint survey lists.
-- Power BI dashboards.
-
----
 
 ## 8. Conclusion
 
