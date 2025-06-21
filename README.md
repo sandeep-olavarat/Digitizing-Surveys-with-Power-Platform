@@ -107,6 +107,4 @@ Digitize and centralize the survey process using Microsoft Power Platform to:
 This Microsoft Power Platform-based solution has significantly improved the **efficiency**, **scalability**, and **transparency** of the course survey process.  
 It serves as a **replicable model** for automating and digitizing other institutional processes.
 
----
 
-## 📁 Folder Structure (Suggested)
